@@ -1,5 +1,7 @@
 package mate.academy
+const val NUMBER = 1705
+
 
 fun main(){
-    println(getCentury(1705))
+    println(getCentury(NUMBER))
 }
